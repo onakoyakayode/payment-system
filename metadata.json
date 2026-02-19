@@ -1,0 +1,8 @@
+{
+  "name": "EduSphere Pro - School Management System",
+  "description": "A comprehensive, high-end school and university management system featuring dashboards for students and teachers, course management, quiz modules, and AI-powered educational assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
