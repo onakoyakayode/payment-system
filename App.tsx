@@ -12,7 +12,6 @@ import Reports from "./pages/Reports";
 import Settings from "./pages/Settings";
 import { View, User } from "./types";
 import { HelpCircle } from "lucide-react";
-import "./globals.css";
 
 const App: React.FC = () => {
   const [view, setView] = useState<View>("DASHBOARD");
